@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:48:28.108055
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 坐禪箴
 #+PROPERTY: CBETA_ID G084n2084
 #+PROPERTY: ID KR6q0241
