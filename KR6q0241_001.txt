@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:48:28.108055
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 坐禪箴
 #+PROPERTY: CBETA_ID G084n2084
 #+PROPERTY: ID KR6q0241
 #+PROPERTY: SOURCE Fojiao Canon Vol. 84, No. 2084
 #+PROPERTY: VOL 084
 #+PROPERTY: BASEEDITION G
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0241_G_001-0440a> 
 #+PROPERTY: JUAN 1
-
- 坐禪箴¶
+坐禪箴¶
 永平承陽大師道元撰¶
 
 佛佛要機。祖祖機要。不思量而現。不回互而成。不思量而現。其現自親。不回互而成。其成自證。其現自親。曾無染汙。其¶
